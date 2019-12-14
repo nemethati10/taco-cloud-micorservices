@@ -1,0 +1,9 @@
+server:
+  port: 8989
+
+spring:
+  application:
+    name: turbine
+
+turbine:
+  app-config: ingredient-service, ingredient-client
